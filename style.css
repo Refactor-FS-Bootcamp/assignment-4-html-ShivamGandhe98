@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(94, 168, 87, 0.61);
+}
+.container{
+    text-align: left;
+}
+.container1{
+    text-align: center;
+}
+.container2{
+    text-align: right;
+}
+.ltext{
+    color: green;
+}
+.btext{
+    font-size: 50px;
+}
+.ptext{
+    font-family: "Trebuchet MS",Tahoma,sans-serif;
+}
+.stext{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.imagecontainer{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height:150px;
+}
+button{
+    border: none;    
+    color: white;
+    background-color: rgb(32, 156, 32);
+    margin-left: 650px;
+}
